@@ -5,7 +5,7 @@ import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 
-public class PlayCard extends BufferedImage {
+final public class PlayCard extends BufferedImage {
     final public static int WIDTH = 45;
     final public static int HEIGHT = 60;
 
